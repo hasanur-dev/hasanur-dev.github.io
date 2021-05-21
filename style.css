@@ -222,14 +222,12 @@ img {
     }
     
     .layer > h1 {
-        position: absolute;
-        left: 0;
-        background-color: hsl(277, 62%, 48%);
         height: 50vw;
         width: 65vw;
-        opacity: 0.7;
-        margin: 0px 0px 0px 0px;
+        margin-left: -32.5vw;
         border-radius: 10px 10px 0px 0px;
+        background-color: hsl(277, 62%, 48%);
+      
     }
     
 
@@ -366,14 +364,12 @@ img {
     }
     
     .layer > h1 {
-        position: absolute;
-        left: 0;
-        background-color: hsl(277, 62%, 48%);
         height: 30vh;
         width: 85vw;
-        opacity: 0.7;
-        margin: 0px 0px 0px 0px;
+       margin-left: 0vw;
         border-radius: 10px 10px 0px 0px;
+        background-color: hsl(277, 62%, 48%);
+      
     }
     
    
